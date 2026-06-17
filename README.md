@@ -201,7 +201,7 @@ Alternatively, place `tectonic.exe` inside the project root directory.
 ## Clone Repository
 
 ```bash
-git clone https://github.com/<your-username>/ARIA.git
+git clone https://github.com/siddhi-works/ARIA.git
 cd ARIA
 ```
 
